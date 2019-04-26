@@ -22,8 +22,8 @@ h3 {
 .character-info {
   background: rgb(170, 152, 152);
   width: 300px;
-  border-radius: 5px;
-  box-shadow: 5px 5px 5px rgb(175, 166, 166);
+  border-radius: 8px;
+  box-shadow: 8px 8px 5px rgb(175, 166, 166);
   width: 40%;
   color: whitesmoke;
 }
